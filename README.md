@@ -27,14 +27,16 @@
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com) -->
 
 
-#### Socials
-![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
+<div align="center">
 
-
-![Diqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=zDiqim7)
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zDiqim7&show_icons=true&theme=tokyonight" alt="Diqi's GitHub stats" />
 
 
 </div>
+
+#### Socials
+![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+</div>  
 </div>
