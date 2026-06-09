@@ -32,6 +32,8 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zDiqim7&show_icons=true&theme=tokyonight" alt="Diqi's GitHub stats" />
 
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+
 
 </div>
 
