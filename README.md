@@ -16,7 +16,7 @@
 
 
 #### 🗄️ Databases
-- None
+![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 #### 🏃💨 General
@@ -26,16 +26,34 @@
 <!-- [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) -->
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com) -->
 
+#### Socials
+![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
 
 -------
 
+
+
+<div align="center">
+  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zDiqim7&show_icons=true&theme=tokyonight" alt="Diqi's GitHub stats" />
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 
+</div>
 
-#### Socials
-![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+
+-------
+
+
+<div align="center">
+  
+`look a snake is eating my green things`
+  
+ ![snake gif](https://github.com/zDiqim7/zDiqim7/blob/output/github-snake-dark.svg)   
+</div>
 
 </div>  
 </div>
