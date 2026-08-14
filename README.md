@@ -4,6 +4,8 @@
 
 <div align="left">
 
+#### About me
+Hi im diqi, a programmer learner and cybersec enthusiast, i like watermelon 
 
 
 #### 🌐 Tech-Stack
