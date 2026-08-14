@@ -61,7 +61,7 @@ Oh, 🍉 watermelon!
 ----
 <div align="center">
   
-`look a snake is eating my green things`
+`look!, a snake is eating my green things`
   
  ![snake gif](https://github.com/zDiqim7/zDiqim7/blob/output/github-snake-dark.svg)   
 </div>
