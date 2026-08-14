@@ -52,7 +52,10 @@ Oh, 🍉 watermelon!
     
   ![Kuru kuru](/src/kurukuru.gif) 
   </div>
-  <div style="font-size:28" align="center" padding: 20;>Kuru Kuru</div>
+  <div style="font-size:28" align="center" padding: 20;> 
+    
+`Kuru Kuru` 
+  </div>
 </div>
 
 ----
