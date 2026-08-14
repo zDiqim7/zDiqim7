@@ -4,8 +4,12 @@
 
 <div align="left">
 
-#### About me
-Hi im diqi, a programmer learner and cybersec enthusiast, i like watermelon 
+#### 👋 About me
+Hi! I'm Diqi, a vocational high school student majoring in Software Engineering. I'm a beginner programmer and a cybersecurity enthusiast.
+
+Funfact: I got curious about cybersecurity and hacking after watching MrRobot (classic, I know! XD). That was the moment I started exploring the cybersec world, and I've been hooked ever since.
+
+Oh, I like watermelon! 🍉
 
 
 #### 🌐 Tech-Stack
@@ -25,7 +29,7 @@ Hi im diqi, a programmer learner and cybersec enthusiast, i like watermelon
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 <!-- [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://cloudflare.com) -->
-<!-- [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com) -->
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com) -->
 
 #### Socials
@@ -49,6 +53,9 @@ Hi im diqi, a programmer learner and cybersec enthusiast, i like watermelon
 
 -------
 
+
+
+-------
 
 <div align="center">
   
