@@ -1,6 +1,6 @@
 <div align="center">
 
-![Muhammad Diqi M.](/img/github-header-banner.png)
+![Muhammad Diqi M.](/img/github-header-banner-2.png)
 
 <div align="left">
 
