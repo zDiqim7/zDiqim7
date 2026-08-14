@@ -1,6 +1,6 @@
 <div align="center">
 
-![Muhammad Diqi M.](/img/github-header-banner-2.png)
+![Muhammad Diqi M.](/src/github-header-banner-2.png)
 
 <div align="left">
 
@@ -9,7 +9,7 @@ Hi! I'm Diqi, a vocational high school student majoring in Software Engineering.
 
 Funfact: I got curious about cybersecurity and hacking after watching MrRobot (classic, I know! XD). That was the moment I started exploring the cybersec world, and I've been hooked ever since.
 
-Oh, I like watermelon! 🍉
+Oh, 🍉 watermelon!
 
 
 #### 🌐 Tech-Stack
@@ -37,26 +37,25 @@ Oh, I like watermelon! 🍉
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-
 -------
-
 
 
 <div align="center">
-  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zDiqim7&show_icons=true&theme=tokyonight" alt="Diqi's GitHub stats" />
-
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
-
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime stats" />
 </div>
 
+----
 
--------
+<div style="display:flex;align-items:center;justify-content:space-between;border:1 solid #ddd;padding:12;border-radius:8;">
+  
+  <div align="center">
+    
+  ![Kuru kuru](/src/kurukuru.gif) 
+  </div>
+  <div style="font-size:28" align="center" padding: 20;>Kuru Kuru</div>
+</div>
 
-
-
--------
-
+----
 <div align="center">
   
 `look a snake is eating my green things`
