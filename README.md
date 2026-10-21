@@ -25,7 +25,6 @@
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime stats" />
 </div> -->
 
-----
 
 <div style="display:flex;align-items:center;justify-content:space-between;border:1 solid #ddd;padding:12;border-radius:8;">
   
