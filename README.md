@@ -1,42 +1,78 @@
+<div align="center">
+
+# Uh, I think I lost again.
+
+*Self-taught web dev. Learning in public, one broken build at a time.*
+
+</div>
+
+---
+
+## About me
+
+- 🔭 Currently learning: **JavaScript** (and eventually React)
+- 🛠️ Building: **[your current project]**
+- 🎯 Goal: full-stack development
+- 💬 Ask me about: **[something you actually know]**
+
+---
+
+## Tech stack
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Back-end**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**project-one**](https://github.com/YOUR_USERNAME/project-one) | One-line description | HTML, CSS, JS |
+| [**project-two**](https://github.com/YOUR_USERNAME/project-two) | One-line description | PHP, Laravel, MySQL |
+
+---
+
+<div align="center">
+
+<!-- keep your existing mascot image tag here -->
+
+![Kuru kuru](/src/kurukuru.gif)
+
+`Kuru Kuru`
+
+
+</div>
+
+
+
+
 <!-- <div align="center">
 
 ![Muhammad Diqi M.](/src/github-header-banner-2.png)
 
-<div align="left"> -->
-<div align="center">
-  <h1>Uh, I think I lost again.</h1> 
-</div>
-
-### What's this?
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-)![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 <!-- [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://cloudflare.com) -->
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 <!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com) -->
-![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-
--------
-
 
 <!-- <div align="center">
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=37900&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime stats" />
 </div> -->
-
-
-<div style="display:flex;align-items:center;justify-content:space-between;border:1 solid #ddd;padding:12;border-radius:8;">
-  
-  <div align="center">
-    
-  ![Kuru kuru](/src/kurukuru.gif) 
-  </div>
-  <div style="font-size:28" align="center" padding: 20;> 
-    
-`Kuru Kuru` 
-  </div>
-</div>
 
 ----
 <div align="center">
