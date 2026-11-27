@@ -6,7 +6,7 @@
 
 </div>
 
----
+<!--
 
 ## About me
 
@@ -47,7 +47,7 @@
 | [**project-one**](https://github.com/YOUR_USERNAME/project-one) | One-line description | HTML, CSS, JS |
 | [**project-two**](https://github.com/YOUR_USERNAME/project-two) | One-line description | PHP, Laravel, MySQL |
 
----
+-->
 
 <div align="center">
 
